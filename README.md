@@ -1,11 +1,8 @@
-# Solving Traveling Salesman Problems by Ant Colony System Algorithm
-
-## 项目名称：What is the shortest path?
+# What is the shortest path?
 
 ### 一、功能实现
 1. 实现了**蚁群算法**(Ant Colony System).
 2. 实现了**基于蚁群算法求解旅行商问题**(TSP)的**路径动态搜索过程以及计算结果的可视化**(最短路径图、平均收敛曲线)。
-3. 简单来说，你可以通过本软件，找到给定问题中，一条最短的Hamiltonian Circuit，并获得直观且清晰的数据展示。
 
 ### 二、相关库
 1. numpy

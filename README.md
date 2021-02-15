@@ -1,4 +1,4 @@
-# Document for Python Project
+# Solvng Traveling Salesman Problems by Ant Colony System Algorithm: A GUI Program
 
 ***未经允许，请勿擅自复制、修改、传播。***
 

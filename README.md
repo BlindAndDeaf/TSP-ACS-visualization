@@ -1,12 +1,6 @@
 # Solving Traveling Salesman Problems by Ant Colony System Algorithm
 
-***未经允许，请勿擅自复制、修改、传播。***
-
-### 项目名称：What is the shortest path?
-
-**Developer: Ethan Lee**
-
-***Github:*** [Click here](https://github.com/imethanlee/TSP-ACS-visualization)
+## 项目名称：What is the shortest path?
 
 ### 一、功能实现
 1. 实现了**蚁群算法**(Ant Colony System).

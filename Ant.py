@@ -6,7 +6,7 @@ class Ant(object):
 
     def __init__(self):
         self.path = np.zeros(1, dtype=int)
-        self.dis = 999999999
+        self.dis = np.inf
 
     def set_path(self, key, val):
         self.path[key] = val
